@@ -60,7 +60,7 @@ To apply the new policy, we'll log in to client-1 using Jane's credentials, sinc
 
 6. Observe that the account has been **locked out** in **Active Directory Users and Computers (ADUC)**.
 
-![Screenshot 2025-03-20 205812](https://github.com/user-attachments/assets/f56044e9-e491-41d4-891f-abab27a2a358)
+![Screenshot 2025-03-20 211828](https://github.com/user-attachments/assets/316d48ce-8fdf-49ab-a714-6fae8c1e994e)
 
 7. **Unlock the account**:
    - Open **Active Directory Users and Computers**
